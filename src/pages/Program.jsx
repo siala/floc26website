@@ -39,7 +39,7 @@ const workshops_week1 = [
     link: "https://sites.google.com/view/iclp-dc-ss2026",
   },
   {
-    name: "Doctoral Program of the International Conference on Principles and Practice of Constraint Programming (DPCP)",
+    name: "CP/SAT Doctoral Program 2026 (CPSATDP)",
     aff: "CP",
     start: 18,
     end: 19,
